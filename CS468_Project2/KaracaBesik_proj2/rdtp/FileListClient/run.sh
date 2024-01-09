@@ -1,0 +1,1 @@
+java -classpath "C:\Users\emree\OneDrive\Masaüstü\CS468_Project2\rdtp\FileListClient\src\client" client.dummyClient $1 $2
